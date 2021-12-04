@@ -1,13 +1,16 @@
+/* Universal selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Adds background color to page */
 body {
     background-color: #d9dcd6;
 }
 
+/* Adds styling to header, header text and menu links */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -42,10 +45,12 @@ a {
     text-decoration: none;
 }
 
+/* Adjusts font-size of p elements */
 p {
     font-size: 16px;
 }
 
+/* Adds styling to main section of page */
 .hero {
     height: 800px;
     width: 100%;
@@ -70,13 +75,14 @@ p {
     color: #ffffff;
 }
 
-.target img {
-    max-height: 200px;
-}
-
 .target h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+/* Adjusts main section images' size and placement */
+.target img {
+    max-height: 200px;
 }
 
 .float-left {
@@ -89,6 +95,8 @@ p {
     margin-left: 25px;
 }
 
+
+/* Adds styling to benefits (sidebar) section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -110,12 +118,14 @@ h3, {
     text-align: center;
 }
 
+/* Adjusts sidebar images' size and placement */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Adds styling to footer section */
 .footer {
     padding: 30px;
     clear: both;
