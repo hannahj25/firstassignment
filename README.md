@@ -16,7 +16,7 @@ This was achieved by:
 
   Debugging the code to fix a broken link
 
-## Screenshot
+## Screenshots
 ![Screenshot](./assets/images/Horiseon-screenshot.png)
 ![Screenshot2](./assets/images/Horiseon-screenshot2.png)
 
