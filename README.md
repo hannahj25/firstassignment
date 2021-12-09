@@ -7,12 +7,18 @@ The purpose of this project was to edit and improve existing code to make the gi
 ## Approach
 
 This was achieved by:
-  adding alt attributes to images and icons
-  changing divs to semantic HTML elements
-  reordering and consolidating CSS selectors and properties
-  debugging the code to fix a broken link
+
+  Adding alt attributes to images and icons
+
+  Changing divs to semantic HTML elements
+
+  Reordering and consolidating CSS selectors and properties
+
+  Debugging the code to fix a broken link
 
 ## Screenshot
+![Screenshot](./assets/images/Horiseon-screenshot.png)
+![Screenshot2](./assets/images/Horiseon-screenshot2.png)
 
 ## Link to project
 
